@@ -29,7 +29,7 @@ Once you navigate to the file, type "node index"
 https://opensource.org/licenses/MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contributions
+## Contributors
 
 Chris Kimball
 
