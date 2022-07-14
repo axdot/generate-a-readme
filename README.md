@@ -16,10 +16,6 @@ https://github.com/axdot/generate-a-readme
 - [Test](#test-instructions)
 - [Contact](#contact)
 
-## Images
-
-OK
-
 ## Installation
 
 Clone the repo and 'npm i'
@@ -44,3 +40,4 @@ Try it for yourself!
 ## Contact
 Questions? Please email me at kimballc3@yahoo.com.
 Do you like this project and want to see what else I'm doing? Here is my Github: [axdot](https://github.com/axdot).
+
