@@ -18,11 +18,16 @@ https://github.com/axdot/generate-a-readme
 
 ## Installation
 
-Clone the repo and 'npm i'
+Clone the repo
+```sh
+npm i
+```
 
 ## Usage Instructions
 
+```sh
 npm start
+```
 
 ## License
   This project uses the MIT license.
