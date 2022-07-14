@@ -1,42 +1,46 @@
-This readme is a DEMO that was created using this app! Checkout the video walkthrough/demonstration here: https://www.youtube.com/watch?v=t6VFl9NNoS0
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# README Generator 
+
+# Generate A README 
 ## Description
 
-Use the command prompt and node.js to quickly create a README.md file
+Answer questions about your project to quickly create a professional README. 
+
+https://github.com/axdot/generate-a-readme
 
 ## Table of Contents
    
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage-instructions)
 - [License](#license)
-- [Badges](#badges)
-- [Contribute](#contribute)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Contributions](#contributions)
+- [Test](#test-instructions)
+- [Contact](#contact)
+
+## Images
+
+OK
 
 ## Installation
 
-You need node.js to run this application
+Clone the repo and 'npm i'
 
 ## Usage Instructions
 
-Once you navigate to the file, type "node index"
+npm start
 
 ## License
   This project uses the MIT license.
 https://opensource.org/licenses/MIT
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Contributors
+## Contributions
 
-Chris Kimball
+Christopher Kimball
 
-## Test Instructions/How to test this Project
+## Test Instructions
 
-Try it for yourself
+Try it for yourself!
 
-## Questions
+## Contact
 Questions? Please email me at kimballc3@yahoo.com.
 Do you like this project and want to see what else I'm doing? Here is my Github: [axdot](https://github.com/axdot).

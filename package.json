@@ -1,0 +1,25 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "This readme is a DEMO that was created using this app! Checkout the video walkthrough/demonstration here: https://www.youtube.com/watch?v=t6VFl9NNoS0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axdot/generate-a-readme.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/axdot/generate-a-readme/issues"
+  },
+  "homepage": "https://github.com/axdot/generate-a-readme#readme"
+}

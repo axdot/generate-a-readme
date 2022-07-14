@@ -19,13 +19,25 @@ const questions = () => {
 
     {
       type: "input",
-      message: "What are the installation requirements?",
+      message: "Please include a link to this project.",
+      name: "urltoproject"
+    },
+
+    {
+      type: "input",
+      message: "If you want to include an image, please type a filler message so you can come back to this section and add it later. (You can either upload it directly to GitHub (creates an absolute path when you drag and drop) or you can add it to your directory and source it using a relative path.",
+      name: "image"
+    },
+
+    {
+      type: "input",
+      message: "What are the installation requirements? (Ex: 'npm i') ",
       name: "install"
     },
 
     {
       type: "input",
-      message: "What are the usage instructions? (How can someone else use this?)",
+      message: "What are the usage instructions? (Ex: 'npm start' or 'node server')",
       name: "usage"
     },
 
@@ -37,7 +49,7 @@ const questions = () => {
 
     {
       type: "input",
-      message: "What are the requirements for testing this project?",
+      message: "What are the requirements for testing this project? (Ex: 'npm run test'.)",
       name: "test"
     },
 
@@ -65,7 +77,7 @@ questions()
  .then((answers) => {
     const template = renderTemplate(answers);
 
-  fs.writeFile('README.md', template, err => {
+  fs.writeFile('yourreadme/README.md', template, err => {
     if (err) throw new Error(err);
     console.log('Your Readme.md file is ready. Check it out!')
   })
