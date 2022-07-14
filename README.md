@@ -18,10 +18,6 @@ https://github.com/axdot/generate-a-readme
 - [Test](#test-instructions)
 - [Contact](#contact)
 
-## Images
-
-OK
-
 ## Installation
 
 Clone the repo and 'npm i'
